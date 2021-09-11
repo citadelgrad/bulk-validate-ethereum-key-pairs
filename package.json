@@ -1,0 +1,19 @@
+{
+  "name": "bulk-validate-ethereum-key-pairs",
+  "version": "0.1.0",
+  "description": "Makes it easy to bulk validate ethereum private and public key pairs that have been mined",
+  "keywords": [
+    "ethereum",
+    "smart",
+    "contracts"
+  ],
+  "dependencies": {
+    "ethereumjs-wallet": "^1.0.1"
+  },
+  "authors": [
+    {
+      "name": "Scott Nixon",
+      "url": "https://github.com/citadelgrad"
+    }
+  ]
+}
